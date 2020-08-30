@@ -1,0 +1,46 @@
+---
+title: "Tablas Pivotantes"
+subtitle: "Clase de 15 min. para Certificación de RStudio"
+author: "Stephanie Orellana"
+date: "2020-09-02"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: middle, center
+
+# ¿Qué veremos en la clase de hoy?
+
+ - Aprenderemos las diferencias entre bases de datos en formato largo y ancho
+ 
+ - Cuál es la utilidad y cuándo se justifica usar cada formato
+ 
+ - Cómo pasar de un formato a otro usando funciones del paquete `tidyr`
+ 
+---
+# ¿Cómo están ordenados generalmente nuestros datos? 
+
+---
+# pivot_longer()
+
+---
+# Live coding
+
+----
+# Formative assessment
+
+---
+# Live coding uniendo summary
+
+---
+# pivot_wider
+
+---
+# Formative assessment
+
+---
+# Gracias!
