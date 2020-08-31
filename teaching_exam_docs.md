@@ -30,12 +30,12 @@ Esta clase forma parte de un curso de verano optativo para estudiantes
 de Agronomía e Ingeniería Forestal en una universidad en Chile. El curso
 tiene una duración de una semana y se enfoca en aprender a realizar
 análisis de datos de campo en R. Los tres primeros días se realiza una
-introducción a R, Rstudio, la indexación de R base, las funciones
+introducción a R, RStudio, la indexación de R base, las funciones
 básicas de Tidyverse y el uso del operador pipe. Ahora es momento para
 presentar aplicaciones prácticas de lo aprendido, lo primero será
 aprender a usar las funciones pivot\_longer() y pivot\_wider() las
-cuales permiten reodenar fácilmente los inventarios de terreno en una
-base de datos y hacer la acción inversa.
+cuales permiten reodenar fácilmente los inventarios de terreno a formato
+largo y realizar la acción inversa.
 
 ## Descripción de estudiantes
 
@@ -164,7 +164,7 @@ Código (disponible después de la clase):
 This class is part of an elective summer course for Agronomy and Forest
 Engineering students at a university in Chile. The course lasts one week
 and focuses on learning how to perform field data analysis in R. The
-first three days are an introduction to R, Rstudio, base R indexing,
+first three days are an introduction to R, RStudio, base R indexing,
 basic Tidyverse functions, and usage of the pipe operator. Now is the
 time to present practical applications of what has been learned, the
 first thing is to learn to use the pivot\_longer () and pivot\_wider ()
