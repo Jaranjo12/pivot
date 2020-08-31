@@ -107,6 +107,11 @@ remotes::install_github("cienciadedatos/datos")
 
 ```
 
+## Enlaces
+
+Presentación: https://teaching-exam.netlify.app/#1
+
+Código (disponible después de la clase):  
 
 # English
 
