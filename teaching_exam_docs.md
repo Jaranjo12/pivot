@@ -74,7 +74,7 @@ eficiente y de este modo podría tener más tiempo libre.
 El argumento `sep = "...."` sirve cuando tenemos nombres con variables
 separadas por un caracter.
 
-Rellena el siguiente código para obtener tres variables a partir del
+Rellena el siguiente código para obtener tres columnas a partir del
 nombre de las columnas seleccionadas.
 
 ``` r
@@ -153,7 +153,7 @@ remotes::install_github("cienciadedatos/datos")
 
 Presentación: <https://teaching-exam.netlify.app/#1>
 
-Código (disponible después de la clase):
+Código (disponible después de la clase): \[\]
 
 # English
 
@@ -207,7 +207,7 @@ more free time.
 The argument `sep =" .... "` works when we have names with variables
 separated by a character.
 
-Fill in the following code to get three variables from the name of the
+Fill in the following code to get three columns from the name of the
 selected columns.
 
 ``` r

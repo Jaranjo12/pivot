@@ -3,7 +3,7 @@ title: "Teaching Exam"
 author: "Stephanie Orellana Bello"
 output:
   github_document:
-    toc: yes
+    toc: true
 ---
 
 # Español
@@ -30,7 +30,7 @@ knitr::include_graphics("img/concept_map_es.png")
 
 El argumento `sep = "...."` sirve cuando tenemos nombres con variables separadas por un caracter.
 
-Rellena el siguiente código para obtener tres variables a partir del nombre de las columnas seleccionadas.
+Rellena el siguiente código para obtener tres columnas a partir del nombre de las columnas seleccionadas.
 
 
 ```{r, eval = F}
@@ -109,9 +109,9 @@ remotes::install_github("cienciadedatos/datos")
 
 ## Enlaces
 
-Presentación: https://teaching-exam.netlify.app/#1
+Presentación: [https://teaching-exam.netlify.app/#1](https://teaching-exam.netlify.app/#1)
 
-Código (disponible después de la clase):  
+Código (disponible después de la clase):  []
 
 # English
 
@@ -137,7 +137,7 @@ knitr::include_graphics("img/concept_map_en.png")
 
 The argument `sep =" .... "` works when we have names with variables separated by a character.
 
-Fill in the following code to get three variables from the name of the selected columns.
+Fill in the following code to get three columns from the name of the selected columns.
 
 
 ```{r, eval = F}
