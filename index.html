@@ -21,7 +21,7 @@ class: center, middle, inverse, title-slide
 ---
 
 
-# ¿Qué veremos en la clase de hoy?
+# ¿Qué veremos en la clase de hoy? 📌
 
  - Aprenderemos las diferencias entre bases de datos en formato largo y ancho
  
@@ -34,7 +34,7 @@ class: center, middle, inverse, title-slide
  - Cómo pasar de un formato a otro usando funciones del paquete `tidyr`
  
 ---
-# ¿Cómo están ordenados nuestros datos? 
+# ¿Cómo están ordenados nuestros datos?
 
 
 .pull-left[
@@ -61,11 +61,13 @@ Un valor por fila
 
 ]
 ---
-# pivot_longer() y pivot_wider()
+# `pivot_longer()` y `pivot_wider()`
 
 .right-column2[
 ![](img/tidyr-longer-wider.gif)&lt;!-- --&gt;
-
+.quote[
+**Fuente:** Tidy Animated Verbs de Garrick Aden-Buie, modificado por Mara Averick
+]
 ]
 
 Las funciones `pivot_longer()` y `pivot_wider()` del paquete `tidyr` nos permiten transformar una planilla en formato ancho a una con formato largo y viceversa.
@@ -76,30 +78,23 @@ Ambas tienen un funcionamiento similar, así que comprendiendo bien una, podemos
 
 --
 
+🚩
 **Debemos tener siempre claro dónde están nuestras variables y valores y dónde queremos que estos estén después de la transformación.**
 
 
 ---
-# Ejemplo práctico
+class: center, middle
 
+# ¡Vamos a ver cómo!
+🐧
 
-```r
-pivot_longer(
-  data,
-  cols,
-  names_to = 
-  names_sep = 
-  names_pattern = 
-  values_to = 
-)
-```
 
 ---
-# ¿Vamos a practicar!
+# ¡A practicar! 🧪
 
-El argumento `sep = "...."` sirve cuando tenemos nombres con variables separadas por un caracter.
+El argumento **`sep = "...."`** sirve cuando tenemos nombres con variables separadas por un caracter.
 
-Rellena el siguiente código para obtener tres variables a partir del nombre de las columnas seleccionadas.
+Rellena el siguiente código para obtener tres columnas a partir del nombre de las columnas seleccionadas.
 
 
 
@@ -152,9 +147,9 @@ pivot_longer(
 ```
 
 ---
-# pivot_wider()
+# `pivot_wider()` 💡
 
-Para usar pivot_wider debemos pensar en la lógica inversa y utilizar **from** en vez de **to**
+Para usar `pivot_wider()` debemos pensar en la lógica inversa y utilizar **from** en vez de **to**.
 
 La siguiente es una tabla que resume los promedios anuales para cada variable:
 
@@ -206,7 +201,9 @@ pivot_wider(media_anual, names_from = "anio", values_from = "media")
 
 
 ---
-# Gracias!
+class: middle, center
+# ¡Gracias!
+🐧
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="libs/remark-latest.min.js"></script>
