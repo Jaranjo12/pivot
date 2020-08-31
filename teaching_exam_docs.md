@@ -153,7 +153,8 @@ remotes::install_github("cienciadedatos/datos")
 
 Presentación: <https://teaching-exam.netlify.app/#1>
 
-Código (disponible después de la clase): \[\]
+Código (disponible después de la clase):
+<https://github.com/sporella/pivot/blob/master/code.R>
 
 # English
 
