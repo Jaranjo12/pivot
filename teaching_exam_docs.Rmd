@@ -109,7 +109,7 @@ remotes::install_github("cienciadedatos/datos")
 
 ## Enlaces
 
-Presentación: [https://teaching-exam.netlify.app/#1](https://teaching-exam.netlify.app/#1)
+Presentación: [https://sporella.github.io/pivot](https://sporella.github.io/pivot)
 
 Código (disponible después de la clase):  [https://github.com/sporella/pivot/blob/master/code.R](https://github.com/sporella/pivot/blob/master/code.R)
 
@@ -213,3 +213,9 @@ install.packages("tidyverse")
 remotes::install_github("cienciadedatos/datos")
 
 ```
+
+## Links
+
+Slides: [https://sporella.github.io/pivot](https://sporella.github.io/pivot)
+
+Live coding (available after class):  [https://github.com/sporella/pivot/blob/master/code.R](https://github.com/sporella/pivot/blob/master/code.R)

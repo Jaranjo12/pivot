@@ -20,6 +20,7 @@ Stephanie Orellana Bello
           - [Question 1](#question-1)
           - [Question 2](#question-2)
       - [Packages needed for the class](#packages-needed-for-the-class)
+      - [Links](#links)
 
 # Español
 
@@ -151,7 +152,7 @@ remotes::install_github("cienciadedatos/datos")
 
 ## Enlaces
 
-Presentación: <https://teaching-exam.netlify.app/#1>
+Presentación: <https://sporella.github.io/pivot>
 
 Código (disponible después de la clase):
 <https://github.com/sporella/pivot/blob/master/code.R>
@@ -282,3 +283,10 @@ install.packages("tidyverse")
 # install.packages("remotes")
 remotes::install_github("cienciadedatos/datos")
 ```
+
+## Links
+
+Slides: <https://sporella.github.io/pivot>
+
+Live coding (available after class):
+<https://github.com/sporella/pivot/blob/master/code.R>
