@@ -1,10 +1,9 @@
 ---
 title: "Teaching Exam"
-subtitle: "15' class"
 author: "Stephanie Orellana Bello"
 output:
   github_document:
-    toc: true
+    toc: yes
 ---
 
 # Español
