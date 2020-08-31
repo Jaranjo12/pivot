@@ -94,6 +94,11 @@ a, a > code {
 
 }
 
+.quote {
+   float: right;
+   font-size: 70%;
+}
+
 img, video, iframe {
   max-width: 100%;
 }
