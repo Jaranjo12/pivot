@@ -72,8 +72,8 @@ eficiente y de este modo podría tener más tiempo libre.
 
 ### Pregunta 1
 
-El argumento `sep = "...."` sirve cuando tenemos nombres con variables
-separadas por un caracter.
+El argumento `names_sep = "...."` sirve cuando tenemos nombres con
+variables separadas por un caracter.
 
 Rellena el siguiente código para obtener tres columnas a partir del
 nombre de las columnas seleccionadas.
@@ -206,8 +206,8 @@ more free time.
 
 ### Question 1
 
-The argument `sep =" .... "` works when we have names with variables
-separated by a character.
+The argument `names_sep =" .... "` works when we have names with
+variables separated by a character.
 
 Fill in the following code to get three columns from the name of the
 selected columns.

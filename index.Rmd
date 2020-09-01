@@ -92,7 +92,7 @@ class: center, middle
 ---
 # ¡A practicar! `r emo::ji("test_tube")`
 
-El argumento **`sep = "...."`** sirve cuando tenemos nombres con variables separadas por un caracter.
+El argumento **`names_sep = "...."`** sirve cuando tenemos nombres con variables separadas por un caracter.
 
 Rellena el siguiente código para obtener tres columnas a partir del nombre de las columnas seleccionadas.
 
