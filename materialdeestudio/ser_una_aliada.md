@@ -129,3 +129,9 @@ carrera o para cumplir con los objetivos de su empresa. Promover
 trabajos en grupo, de esta forma se aprovecha la motivación de los demás
 para que el sentido de comunidad haga que la persona se motive. Conocer
 su historia de vida y saber por qué esta persona está desmotivada.
+
+-----
+
+Apuntes inspirados en las diapositivas de [Ally Skills
+Workshop](https://files.frameshiftconsulting.com/Ally%20Skills%20Workshop%20slides.pdf)
+de Valerie Aurora
